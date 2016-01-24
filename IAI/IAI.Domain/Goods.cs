@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IAI.DomainModel
 {
-    public class Goods
+    public class Goods:IAggregateRoot
     {
         public string Name { get; set; }
 
