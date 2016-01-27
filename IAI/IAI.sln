@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAI.IRepository", "IAI.IRep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAI.Exceptions", "IAI.Exceptions\IAI.Exceptions.csproj", "{BFB0F84D-D676-4686-96AC-5A0B35F33FE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NhibernatePractice", "NhibernatePractice\NhibernatePractice.csproj", "{574627B6-3CF9-4677-A11C-021C132D8FE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{BFB0F84D-D676-4686-96AC-5A0B35F33FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFB0F84D-D676-4686-96AC-5A0B35F33FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFB0F84D-D676-4686-96AC-5A0B35F33FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574627B6-3CF9-4677-A11C-021C132D8FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574627B6-3CF9-4677-A11C-021C132D8FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574627B6-3CF9-4677-A11C-021C132D8FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574627B6-3CF9-4677-A11C-021C132D8FE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,5 +98,6 @@ Global
 		{29FA7902-AD2F-432A-89A8-896C91F37E82} = {D2210DA4-3F9F-4AF6-95A6-869A0DF2CA5E}
 		{704A52F7-4B8B-434C-AEDA-300E9C4A57F3} = {D2210DA4-3F9F-4AF6-95A6-869A0DF2CA5E}
 		{BFB0F84D-D676-4686-96AC-5A0B35F33FE7} = {D16E22C0-8686-421E-9FB4-5FB84FF323DA}
+		{574627B6-3CF9-4677-A11C-021C132D8FE8} = {48AFDB29-9DC0-4135-B6C8-8B5891A2C499}
 	EndGlobalSection
 EndGlobal
